@@ -1,0 +1,6 @@
+streamlit>=1.25
+gdown>=4.7.1
+requests>=2.31
+pandas>=1.5.0
+numpy>=1.23
+scikit-learn>=1.2
